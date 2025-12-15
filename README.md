@@ -1,5 +1,5 @@
 # context-aware-output-filters
-Will give 
+Exploratory experiments on human-in-the-loop verification as a lightweight fallback for low-risk AI systems, examining when partial human review can replace full automated verification without unacceptable accuracy loss.
 # Context-Aware Output Filters
 
 Notes and small experiments exploring how AI outputs can be evaluated
